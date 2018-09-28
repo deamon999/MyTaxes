@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">My Taxes</string>
+    <string name="text_view_lable_one">Пошук в Єдиному реєстру:</string>
+    <string name="search_label">Пошук</string>
+    <string name="button_label">Знайти!</string>
+    <string name="favorit_fragment">Закладки</string>
+    <string name="main_fragment">Пошук</string>
+    <string name="add_comment">Додати коментар?</string>
+    <string name="yes">Так</string>
+    <string name="no">Ні</string>
+    <string name="search_empty">Введіть данні!</string>
+
+</resources>
