@@ -130,7 +130,7 @@ public class SearchAdapter extends RecyclerView.Adapter<SearchAdapter.ViewHolder
                                 @Override
                                 public void onClick(DialogInterface dialog, int which) {
                                     dialog.cancel();
-                                    person.setComment("Коментар");
+                                    person.setComment("Коментарій");
                                 }
                             });
                             builder.show();

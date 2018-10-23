@@ -5,9 +5,10 @@
     <string name="button_label">Знайти!</string>
     <string name="favorit_fragment">Закладки</string>
     <string name="main_fragment">Пошук</string>
-    <string name="add_comment">Додати коментар?</string>
+    <string name="add_comment">Додати коментарій?</string>
     <string name="yes">Так</string>
     <string name="no">Ні</string>
     <string name="search_empty">Введіть данні!</string>
+    <string name="ad_mob_id">ca-app-pub-2471884683089705/2174714031</string>
 
 </resources>
